@@ -16,7 +16,7 @@ Responsável por transformar dados em decisões inteligentes! Atuo como Analista
 
 Lucas Ayres
 📞 +55 11 97653 8777
-📧 lucas.ayres11@outlook.com".
+📧 lucas.ayres11@outlook.com.
 
 ---
 
