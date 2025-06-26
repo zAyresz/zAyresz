@@ -43,7 +43,6 @@ Transformando dados em decisões inteligentes! Atuo como Analista de Dados com f
 <img align="left" alt="Python" title="Python" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="SQL" title="SQL" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 <img align="left" alt="Lua" title="Lua" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />
-<img align="left" alt="R" title="R" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
 </div>
 
 <br/>
@@ -52,7 +51,6 @@ Transformando dados em decisões inteligentes! Atuo como Analista de Dados com f
 ### Plataformas e Ferramentas
 <div>
 <img align="left" alt="Google Cloud" title="Google Cloud" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
-<img align="left" alt="BigQuery" title="BigQuery" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
 <img align="left" alt="Git" title="Git" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </div>
 
@@ -69,7 +67,6 @@ Transformando dados em decisões inteligentes! Atuo como Analista de Dados com f
 - 🔥 PyTorch
 - 📚 Pandas/NumPy
 - 🔍 OpenAI API
-- 💬 Processamento de Linguagem Natural (NLP)
 
 ## 📈 Estatísticas do GitHub
 ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasayres&show_icons=true&theme=radical&count_private=true)
