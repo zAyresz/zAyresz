@@ -11,7 +11,7 @@ Transformando dados em decisões inteligentes! Atuo como Analista de Dados com f
 - 🚀 Busco sempre aprender e aplicar novas tecnologias para tornar a análise de dados cada vez mais ágil e eficiente
 
 ## 💼 Experiência Profissional
-### WPP Media Services | Analista de BI Júnior
+### Analista de BI Júnior | WPP Media Services
 **Ago 2024 - Presente | São Paulo, SP**
 - Desenvolvimento de análises e relatórios de dados
 - Automação de processos de análise de dados
