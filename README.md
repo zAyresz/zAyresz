@@ -77,7 +77,7 @@ Transformando dados em decisões inteligentes! Atuo como Analista de Dados com f
 - 📞 **Telefone:** +55 11 97653 8777
 - 📧 **Email:** ayresstv@gmail.com
 - 💼 **LinkedIn:** [Lucas Ayres](https://www.linkedin.com/in/lucas-ayres-928209232/)
-- 🌐 **GitHub:** [github.com/lucasayres](https://github.com/lucasayres)
+- 🌐 **GitHub:** [github.com/lucasayres](https://github.com/zAyresz)
 
 ---
 
